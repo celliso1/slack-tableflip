@@ -10,7 +10,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josheverett/slack-tableflip"
+    "url": "https://github.com/celliso1/slack-tableflip"
   },
   "keywords": [
     "slack",
